@@ -1,0 +1,19 @@
+{
+  "name": "ayu-mirage-ish-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "Theme based on Ayu Mirage",
+  "keywords": [
+    "syntax",
+    "theme",
+    "ayu",
+    "mirage",
+    "dark-theme"
+  ],
+  "author": "Pratyush Tewari",
+  "repository": "https://github.com/pratyushtewari/ayu-mirage-ish.git",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
